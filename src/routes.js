@@ -3,7 +3,7 @@ const router = express.Router();
 const { nanoid } = require('nanoid');
 
 router.get("/",(req,res)=>{
-    res.send("testingg")
+    res.send("testing")
 })
 
 
