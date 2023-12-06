@@ -1,7 +1,13 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable import/order */
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line linebreak-style
+/* eslint-disable no-console */
 const express = require('express');
-const router = require('./routes')
+const router = require('./routes');
+
 const app = express();
-const cors = require('cors')
+const cors = require('cors');
 const bodyParser = require('body-parser');
 
 app.use(bodyParser.urlencoded({ extended: false }));
