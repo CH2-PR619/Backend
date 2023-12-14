@@ -1,5 +1,5 @@
 /* eslint-disable linebreak-style *//* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable consistent-return */
+/* eslint-disable linebreak-style *//* eslint-disable consistent-return */
 /* eslint-disable no-console */
 /* eslint-disable import/newline-after-import */
 const express = require('express');
